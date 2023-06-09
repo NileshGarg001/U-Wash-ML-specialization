@@ -1,0 +1,3 @@
+https://d396qusza40orc.cloudfront.net/phoenixassets/people_wiki.csv 
+
+Copy The Url and open in browser to get the dataset 
